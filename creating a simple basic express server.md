@@ -24,5 +24,5 @@ app.listen(port, () => {
 ```
 6. Now in terminal , open the previously made folder and type `node server.js`.
 
-7. To avoid the freqquently refreshing problem , use nodemon. Type :
+7. To avoid the frequently refreshing problem , use nodemon. Type :
 `npm i nodemon` and restart the `server.js` file by typing : `nodemon server.js`.
